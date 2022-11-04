@@ -16,4 +16,4 @@ eureka:
       defaultZone: http://eureka-server1:8761/eureka, http://eureka-server2:8762/eureka
     fetch-registry: true
     register-with-eureka: true
-noncat: autumn
+noncat: autumndyer
